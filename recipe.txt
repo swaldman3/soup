@@ -2,3 +2,5 @@ Water
 chicken
 broth
 ground black pepper
+chipotle peppers
+thyme
