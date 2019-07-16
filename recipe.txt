@@ -6,3 +6,4 @@ chipotle peppers
 thyme
 cilantro
 cumin
+onion
